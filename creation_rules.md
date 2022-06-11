@@ -8,4 +8,4 @@
 
 The adventure will begin in the Southern parts of the mainland, in the city of Lysandros. Lysandros is a military city of about 3000 souls, one of the last bastions before the orc and machine lands. The characters will arrive here, looking for fortune, adventure, magical and technological artifacts etc... The deserts and jungles that surround Lysandros are the perfect place to look for all of these things.
 
-It also gives the Gamemaster to listen to Stranglethorn Vale as a background soundtrack again. Which he really misses doing.
+It also gives the Gamemaster an excuse to play Stranglethorn Vale as a background soundtrack again. Which he really misses doing.
