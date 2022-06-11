@@ -35,3 +35,62 @@ character for yourself.
 
 Warlocks count as Spiritual, Divine or Arcane casters, depending on their patron. The nature of a specific patron should be discussed on a case by case basis.
 We use the patrons in the book as templates for beings you want to come up with, similar to the gods for divine characters.
+
+# Races
+
+## Dragonborn
+
+Dragonborn are a relatively young race on Ixios. They were created after the Orient was overtaken by the dragons.
+
+Metallic dragons created dragonborn in a last ditch attempt to keep their blood alive in some form whereas chromatic dragons created dragonborn mostly by accident through the occassional romantic interest of a dragon in a mortal, sex-slaves and other pairings of darker nature.
+
+### Reproduction
+
+Dragonborn can be produced when a dragon that has assumed mortal form has a child with a mortal. They can be both born to a humanoid or a draconic mother.
+Dragonborn can actually be born in one of three different ways. 
+
+* If the mother is mortal, they will be born normally. However the process is considerably more dangerous to the mother than a regular child of their own race.
+* If the mother is draconic but retains her mortal form she will give birth to the dragonborn normally, but won't suffer adverse effects like an actual mortal.
+* If the mother is draconic she will lay the dragonborn in an egg. A strange side effect of this is that dragonborn born this way will remember roughly the last month of their time within their egg.
+
+No matter which way how dragonborn are born. They themselves are warm-blooded mammals, despite their lizard-like appearance and origin.
+
+## Elves
+
+During the Height of civilization, a large portion of elves had evolved into a form called the Ascended Elves. Each single Ascended Elf wielding powerful magic, superhuman strength, speed and intellect making them one-elf armies. The only reason why they were not the dominant civilization was the fact that their gestation period was even longer than that of regular elves (3 years for regular elves, 10 years for ascended elves) which prevented them from spreading across the world as fast as they would have liked. When their goddess died, the ascended elves turned feral.
+
+### High Elves
+
+They were the elves close to ascension but not quite there yet. They used to live in the same cities but nowadays they either live with their wood elf cousins or spread out across the world.
+
+### Wood Elves
+
+More or less the original form of elves. They hail from the elven forests of the north where they still live in mostly peace.
+
+### Sea Elves
+
+They live in the southern seas off the coast of the orc regions together with other aquatic races.
+
+### Eladrin
+
+Eladrin are cross-breeds between elves and fey beings. Elves are the only mortal races that can cross-breed with fey, due to their close proximity to the fey realm.
+
+### Drow
+
+Despite often being perceived as dark or evil, not all Drow choose this path. They live in the massive underground structure of Rockmaze which is also the home to Dwarves and Gnomes among other races.
+
+## Half-Orcs
+
+The only important notice here is, due to their unlimited hatred for non-orcs, half-orcs are basically never willingly produced and are also killed without exception if they happen to be born among orcs.
+
+## Dwarves and Gnomes
+
+Dwarves hail from the massive underground mountain structure of Rockmaze. All dwarf types come from different parts of Rockmaze.
+
+## Tieflings
+
+Tieflings are always born as the result of cross-breeding of a mortal and a demonic creature or by a mortal worshipper being "blessed" with the Tiefling form by an Arch-Fiend.
+
+## Others
+
+Races that haven't been mentioned will operate mostly as per the default rules. We can still have a small chat about their place in the setting, especially if choosing an unusual race.
