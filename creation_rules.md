@@ -2,6 +2,7 @@
 * Starting Gear: As per the class
 * Level: 3
 * Optional Rules and Customization: Allowed, in General
+* No random HD (Max on Level 1, Fixed Value on other Levels)
 
 # Starting Location
 
